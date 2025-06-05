@@ -9,12 +9,14 @@ Source: Sample Sales/Financial dataset from Kaggle
 
 Focus: Sales data for the Furniture category
 
+
 🔧 Tools & Technologies
 Power BI
 
 Data modeling & transformation in Power BI
 
 DAX for calculated fields and KPIs
+
 
 📌 Dashboard Features
 KPI Cards:
@@ -24,6 +26,7 @@ KPI Cards:
 📦 Units Sold – 875
 
 💰 Total Sales – 432K
+
 
 Interactive Filters:
 
