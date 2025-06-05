@@ -2,7 +2,7 @@
 Interactive dashboard project for Data Analyst Internship. Created using Power BI with key KPIs, time-series analysis, slicers, and summary cards. Designed to help business stakeholders make informed decisions.
 
 🧾 Overview
-This project is a part of the Data Analyst Internship (Task 4), where the objective was to create an interactive business dashboard using Power BI to help stakeholders visualize sales performance and make informed decisions.
+This project is a part of the Data Analyst Internship , where the objective was to create an interactive business dashboard using Power BI to help stakeholders visualize sales performance and make informed decisions.
 
 📁 Dataset
 Source: Sample Sales/Financial dataset from Kaggle
