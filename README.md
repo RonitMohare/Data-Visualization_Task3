@@ -33,10 +33,6 @@ Filter by Category (Furniture)
 
 Time-based filters (Year, Quarter, Month, Day)
 
-Trend Analysis:
+Trend Analysis: A line chart showing the Yearly Sales Trend (2020–2025)
 
-A line chart showing the Yearly Sales Trend (2020–2025)
-
-Visual Theme:
-
-Consistent dark-themed background with clean, readable fonts
+Visual Theme: Consistent dark-themed background with clean, readable fonts
